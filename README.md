@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasancanguler&label=Profile%20views&color=0e75b6&style=flat" alt="hasancanguler" /> </p>
+![](https://hit.yhype.me/github/profile?account_id=4497450)
 <!--
 **hasancanguler/hasancanguler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
